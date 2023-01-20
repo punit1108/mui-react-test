@@ -1,0 +1,31 @@
+
+.info-container {
+  text-align: center;
+  display: block;
+  overflow: auto;
+} 
+.user-data-section {
+  margin-top: 40px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.user-info-data {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px 0;
+  border-bottom: 1px solid #e0e0e0;
+}
+.field {
+  color: #0a6bde;
+  font-weight: bold;
+  font-size: 14px;
+}
+.value {
+  font-weight: bold;
+  font-size: 14px;
+}
+.list-value {
+  display: flex;
+  justify-content: flex-end;
+}

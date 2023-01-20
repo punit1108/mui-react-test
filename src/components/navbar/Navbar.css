@@ -1,0 +1,31 @@
+.navbar-cover {
+  -webkit-box-shadow: 0 0 25px 0 rgb(0 0 0 / 10%);
+  -moz-box-shadow: 0 0 25px 0 rgba(0,0,0,.1);
+  box-shadow: 0 0 25px 0 rgb(0 0 0 / 10%);
+  background-color: white;
+
+}
+.navbar {
+  display: flex !important;
+  justify-content: space-between;
+  width: 100%;
+  flex-direction: row;
+}
+.logo {
+  height: 50px;
+}
+.app-logo {
+  font-size: 20px !important;
+  font-weight: bold;
+  font-family: QuickSand !important;
+}
+.search-box {
+  padding-top: 10px;
+}
+.search-bar-button {
+  height: 24px;
+  background-color: blue;
+}
+Button.app-logo:hover {
+  background-color: #fff !important;
+}

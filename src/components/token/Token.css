@@ -1,0 +1,24 @@
+.token-drawer {
+  position: absolute !important;
+  bottom: 0px;
+  width: 100%;
+  color: white;
+  background-color: black;
+}
+.token-drawer-handle {
+  cursor: pointer;
+  padding: 10px;
+}
+.token-drawer-container {
+  background-color: #202124;
+  padding: 20px;
+}
+.horizontal-rule {
+  width: 30px;
+  height: 4px;
+  position: relative;
+  border-radius: 4px;
+  left: 50%;
+  margin: 0px 0 9px -15px;
+  background-color: white;
+}
